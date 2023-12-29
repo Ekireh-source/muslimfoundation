@@ -1,0 +1,183 @@
+			<div class="fl-slide fl-slide-0 fl-slide-text-left">
+				<div class="fl-slide-mobile-photo"><img fetchpriority="high" decoding="async" width="2560" height="1280" loading='false' alt="" 
+					data-srcset="{% static 'assets/img/IMG-3.jpg' %} 2560w, 
+								 {% static 'assets/img/IMG-3.jpg' %} 300w, 
+								 {% static 'assets/img/IMG-3.jpg' %} 1024w, 
+								 {% static 'assets/img/IMG-3.jpg' %} 768w, 
+								 {% static 'assets/img/IMG-3.jpg' %} 1536w, 
+								 {% static 'assets/img/IMG-3.jpg' %} 2048w"  
+					data-src="{% static 'assets/img/IMG-3.jpg' %}" 
+					data-sizes="(max-width: 2560px) 100vw, 2560px" class="fl-slide-mobile-photo-img wp-image-76331 lazyload" 
+					src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+			   <noscript>
+				   <img fetchpriority="high" decoding="async" width="2560" height="1280" loading='false' 
+						class="fl-slide-mobile-photo-img wp-image-76331" 
+						src="{% static 'assets/img/IMG-3.jpg' %}" 
+						alt="" 
+						srcset="{% static 'assets/img/IMG-3.jpg' %} 2560w, 
+								{% static 'assets/img/IMG-3.jpg' %} 300w, 
+								{% static 'assets/img/IMG-3.jpg' %} 1024w,
+								{% static 'assets/img/IMG-3.jpg' %} 768w, 
+								{% static 'assets/img/IMG-3.jpg' %} 1536w, 
+								{% static 'assets/img/IMG-3.jpg' %} 2048w" 
+						sizes="(max-width: 2560px) 100vw, 2560px" />
+			   </noscript>
+					</div><div class="fl-slide-bg-photo"></div>			<div class="fl-slide-foreground clearfix">
+					<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h2 class="fl-slide-title">SERVE AS A TRUSTWORTHY PLATFORM FOR COLLECTING AND MANAGING ENDOWMENTS</h2><div class="fl-slide-text"><p><span style="font-size: 24px;">Committed to ensuring the funds are effectively used</span></p>
+					</div><div id="fl-slide-cta-button-61815d498583b-0" class="fl-slide-cta-button"><div class="fl-button-wrap fl-button-width-auto fl-button-left fl-button-has-icon">
+					<a href="https://secure.islamicscholarshipfund.org/forms/22" target="_self" class="fl-button">
+						<i class="fl-button-icon fl-button-icon-before fas fa-hand-holding-heart" aria-hidden="true"></i>
+							<span class="fl-button-text">Donate Now </span>
+					</a>
+						</div>
+				</div></div></div>			</div>
+			</div>
+				<div class="fl-slide fl-slide-1 fl-slide-text-left">
+				<div class="fl-slide-mobile-photo"><img decoding="async" width="2560" height="1280" loading='false'   alt="" data-srcset="https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-scaled.jpg 2560w, https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-300x150.jpg 300w, https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-1024x512.jpg 1024w, https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-768x384.jpg 768w, https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-1536x768.jpg 1536w, https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-2048x1024.jpg 2048w"  data-src="https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-scaled.jpg" data-sizes="(max-width: 2560px) 100vw, 2560px" class="fl-slide-mobile-photo-img wp-image-62222 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" width="2560" height="1280" loading='false' class="fl-slide-mobile-photo-img wp-image-62222" src="https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-scaled.jpg" alt="" srcset="https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-scaled.jpg 2560w, https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-300x150.jpg 300w, https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-1024x512.jpg 1024w, https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-768x384.jpg 768w, https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-1536x768.jpg 1536w, https://islamicscholarshipfund.org/wp-content/uploads/2023/08/ISF-2023-Annual-Report-Banner-2048x1024.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></noscript></div><div class="fl-slide-bg-photo"></div>			<div class="fl-slide-foreground clearfix">
+					<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h2 class="fl-slide-title">2024 Annual Report</h2><div class="fl-slide-text"><p>See MEF amazing work and the access we provide through your support.</p>
+	</div><div id="fl-slide-cta-button-61815d498583b-1" class="fl-slide-cta-button"><div class="fl-button-wrap fl-button-width-auto fl-button-left">
+				<a href="https://drive.google.com/file/d/1aQTtQshK8qt50mSplRT2FrPwf2gcXMX0/view" target="_self" class="fl-button">
+								<span class="fl-button-text">Read MEF Annual Report </span>
+						</a>
+	</div>
+	</div></div></div>			</div>
+			</div>
+				<div class="fl-slide fl-slide-2 fl-slide-text-left">
+				<div class="fl-slide-mobile-photo"><img decoding="async" width="1536" height="940" loading='false'   alt="" data-srcset="https://islamicscholarshipfund.org/wp-content/uploads/2021/04/stephen-walker-yJrMIG0VriI-unsplash-1536x1025-1-e1618346897522.jpg 1536w, https://islamicscholarshipfund.org/wp-content/uploads/2021/04/stephen-walker-yJrMIG0VriI-unsplash-1536x1025-1-e1618346897522-300x184.jpg 300w, https://islamicscholarshipfund.org/wp-content/uploads/2021/04/stephen-walker-yJrMIG0VriI-unsplash-1536x1025-1-e1618346897522-1024x627.jpg 1024w, https://islamicscholarshipfund.org/wp-content/uploads/2021/04/stephen-walker-yJrMIG0VriI-unsplash-1536x1025-1-e1618346897522-768x470.jpg 768w"  data-src="https://islamicscholarshipfund.org/wp-content/uploads/2021/04/stephen-walker-yJrMIG0VriI-unsplash-1536x1025-1-e1618346897522.jpg" data-sizes="(max-width: 1536px) 100vw, 1536px" class="fl-slide-mobile-photo-img wp-image-28289 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" width="1536" height="940" loading='false' class="fl-slide-mobile-photo-img wp-image-28289" src="https://islamicscholarshipfund.org/wp-content/uploads/2021/04/stephen-walker-yJrMIG0VriI-unsplash-1536x1025-1-e1618346897522.jpg" alt="" srcset="https://islamicscholarshipfund.org/wp-content/uploads/2021/04/stephen-walker-yJrMIG0VriI-unsplash-1536x1025-1-e1618346897522.jpg 1536w, https://islamicscholarshipfund.org/wp-content/uploads/2021/04/stephen-walker-yJrMIG0VriI-unsplash-1536x1025-1-e1618346897522-300x184.jpg 300w, https://islamicscholarshipfund.org/wp-content/uploads/2021/04/stephen-walker-yJrMIG0VriI-unsplash-1536x1025-1-e1618346897522-1024x627.jpg 1024w, https://islamicscholarshipfund.org/wp-content/uploads/2021/04/stephen-walker-yJrMIG0VriI-unsplash-1536x1025-1-e1618346897522-768x470.jpg 768w" sizes="(max-width: 1536px) 100vw, 1536px" /></noscript></div><div class="fl-slide-bg-photo"></div>			<div class="fl-slide-foreground clearfix">
+					<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h2 class="fl-slide-title">Leaving lasting charitable legacies</h2><div class="fl-slide-text"><div class="c-message_kit__gutter">
+	<div class="c-message_kit__gutter__right" role="presentation" data-qa="message_content">
+	<div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+	<div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
+	<div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+	<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+	<div class="p-rich_text_block" dir="auto">
+	<div class="p-rich_text_section">
+	<div class="c-message_kit__gutter">
+	<div class="c-message_kit__gutter__right" role="presentation" data-qa="message_content">
+	<div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+	<div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
+	<div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+	<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+	<div class="p-rich_text_block" dir="auto">
+	<div class="p-rich_text_section" style="text-align: left;">Promoting charitable acts among muslims and ensuring the benefits of these actions continue beyond an individuals lifetime</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="c-message_actions__container c-message__actions" role="group">
+	<div class="c-message_actions__group" role="group" aria-label="Message shortcuts" data-qa="message-actions"></div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="c-message_actions__container c-message__actions" role="group">
+	<div class="c-message_actions__group" role="group" aria-label="Message shortcuts" data-qa="message-actions"></div>
+	</div>
+	</div><div id="fl-slide-cta-button-61815d498583b-2" class="fl-slide-cta-button"><div class="fl-button-wrap fl-button-width-auto fl-button-left">
+				<a href="https://secure.islamicscholarshipfund.org/forms/22" target="_self" class="fl-button">
+								<span class="fl-button-text">Support a Changemaker</span>
+						</a>
+	</div>
+	</div></div></div>			</div>
+			</div>
+				<div class="fl-slide fl-slide-3 fl-slide-text-left">
+				<div class="fl-slide-mobile-photo"><img decoding="async" width="1400" height="700" loading='false'   alt="" data-srcset="https://islamicscholarshipfund.org/wp-content/uploads/2023/02/Untitled-design-3-reduced.png 1400w, https://islamicscholarshipfund.org/wp-content/uploads/2023/02/Untitled-design-3-reduced-300x150.png 300w, https://islamicscholarshipfund.org/wp-content/uploads/2023/02/Untitled-design-3-reduced-1024x512.png 1024w, https://islamicscholarshipfund.org/wp-content/uploads/2023/02/Untitled-design-3-reduced-768x384.png 768w"  data-src="https://islamicscholarshipfund.org/wp-content/uploads/2023/02/Untitled-design-3-reduced.png" data-sizes="(max-width: 1400px) 100vw, 1400px" class="fl-slide-mobile-photo-img wp-image-32287 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" width="1400" height="700" loading='false' class="fl-slide-mobile-photo-img wp-image-32287" src="https://islamicscholarshipfund.org/wp-content/uploads/2023/02/Untitled-design-3-reduced.png" alt="" srcset="https://islamicscholarshipfund.org/wp-content/uploads/2023/02/Untitled-design-3-reduced.png 1400w, https://islamicscholarshipfund.org/wp-content/uploads/2023/02/Untitled-design-3-reduced-300x150.png 300w, https://islamicscholarshipfund.org/wp-content/uploads/2023/02/Untitled-design-3-reduced-1024x512.png 1024w, https://islamicscholarshipfund.org/wp-content/uploads/2023/02/Untitled-design-3-reduced-768x384.png 768w" sizes="(max-width: 1400px) 100vw, 1400px" /></noscript></div><div class="fl-slide-bg-photo"></div>			<div class="fl-slide-foreground clearfix">
+					<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h2 class="fl-slide-title">AMPLIFY THE MUSLIM VOICE</h2><div class="fl-slide-text"><div class="c-message_kit__gutter">
+	<div class="c-message_kit__gutter__right" role="presentation" data-qa="message_content">
+	<div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+	<div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
+	<div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+	<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+	<div class="p-rich_text_block" dir="auto">
+	<div class="p-rich_text_section"></div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="c-message_actions__container c-message__actions" role="group">
+	<div class="c-message_actions__group" role="group" aria-label="Message shortcuts" data-qa="message-actions">
+	<div class="c-message_kit__gutter">
+	<div class="c-message_kit__gutter__right" role="presentation" data-qa="message_content">
+	<div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+	<div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
+	<div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+	<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+	<div class="p-rich_text_block" dir="auto">
+	<div class="p-rich_text_section">
+	<div class="c-message_kit__gutter">
+	<div class="c-message_kit__gutter__right" role="presentation" data-qa="message_content">
+	<div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+	<div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
+	<div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+	<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+	<div class="p-rich_text_block" dir="auto">
+	<div class="p-rich_text_section">We envision a society where religion, culture, and race are not barriers to equity and equality.</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="c-message_actions__container c-message__actions" role="group">
+	<div class="c-message_actions__group" role="group" aria-label="Message shortcuts" data-qa="message-actions"></div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="c-message_actions__container c-message__actions" role="group">
+	<div class="c-message_actions__group" role="group" aria-label="Message shortcuts" data-qa="message-actions"></div>
+	</div>
+	</div>
+	</div>
+	</div><div id="fl-slide-cta-button-61815d498583b-3" class="fl-slide-cta-button"><div class="fl-button-wrap fl-button-width-auto fl-button-left">
+				<a href="https://secure.islamicscholarshipfund.org/forms/22" target="_self" class="fl-button">
+								<span class="fl-button-text">Support a Changemaker</span>
+						</a>
+	</div>
+	</div></div></div>			</div>
+			</div>
+				<div class="fl-slide fl-slide-4 fl-slide-text-left">
+				<div class="fl-slide-mobile-photo"><img decoding="async" width="603" height="348" loading='false'   alt="" data-srcset="https://islamicscholarshipfund.org/wp-content/uploads/2022/05/1391774_10151646601682000_1167083177_n-1.jpg 603w, https://islamicscholarshipfund.org/wp-content/uploads/2022/05/1391774_10151646601682000_1167083177_n-1-300x173.jpg 300w"  data-src="https://islamicscholarshipfund.org/wp-content/uploads/2022/05/1391774_10151646601682000_1167083177_n-1.jpg" data-sizes="(max-width: 603px) 100vw, 603px" class="fl-slide-mobile-photo-img wp-image-31005 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" width="603" height="348" loading='false' class="fl-slide-mobile-photo-img wp-image-31005" src="https://islamicscholarshipfund.org/wp-content/uploads/2022/05/1391774_10151646601682000_1167083177_n-1.jpg" alt="" srcset="https://islamicscholarshipfund.org/wp-content/uploads/2022/05/1391774_10151646601682000_1167083177_n-1.jpg 603w, https://islamicscholarshipfund.org/wp-content/uploads/2022/05/1391774_10151646601682000_1167083177_n-1-300x173.jpg 300w" sizes="(max-width: 603px) 100vw, 603px" /></noscript></div><div class="fl-slide-bg-photo"></div>			<div class="fl-slide-foreground clearfix">
+					<div class="fl-slide-content-wrap"><div class="fl-slide-content"><h2 class="fl-slide-title">Efforts to serve the revival of the waqf practice and tradition</h2><div class="fl-slide-text"><div class="c-message_kit__gutter">
+	<div class="c-message_kit__gutter__right" role="presentation" data-qa="message_content">
+	<div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+	<div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
+	<div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+	<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+	<div class="p-rich_text_block" dir="auto">
+	<div></div>
+	<div class="p-rich_text_section">MEF accomplishes this by requesting people to endow a grant cash as waqf</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="c-message_actions__container c-message__actions" role="group">
+	<div class="c-message_actions__group" role="group" aria-label="Message shortcuts" data-qa="message-actions"></div>
+	</div>
+	</div><div id="fl-slide-cta-button-61815d498583b-4" class="fl-slide-cta-button"><div class="fl-button-wrap fl-button-width-auto fl-button-left">
+				<a href="https://secure.islamicscholarshipfund.org/forms/22" target="_self" class="fl-button">
+								<span class="fl-button-text">Support a Changemaker</span>
+						</a>
+	</div>
+	</div></div></div>			</div>
+			</div>

@@ -1,0 +1,125 @@
+/**
+Theme Name: Inspire Theme
+Theme URI: http://www.neoncrm.com/websites
+Version: 2.0.5
+Description: The second iteration of Inspire
+Author: Colin Pizarek
+template: bb-theme
+*/
+
+/* Callout for instructional content */
+.inspire-helper {
+	color: #5e7f96;
+	background-color: #dff2fe;
+	border-radius: 5px;
+	border: solid 1px #cfebfe;
+}
+
+/**
+ * Template Sync
+ *
+ * Styles that apply to NeonCRM forms
+ */
+ 
+/* NeonCRM Template Styles */
+@media (min-width: 768px){
+	.neon_form_content {
+		padding-top: 40px;
+		max-width: 700px;
+		margin: 0 auto;
+	}
+}
+/* Make donation amount field bigger */
+input#donation\.amount {
+	font-size: 1.5em;
+	padding: 6px 3px;
+}
+/* Make org toggle button smaller */
+.neoncrm-org-toggle input {
+	padding: 6px 15px;
+}
+/* Center-align page title */
+.neoncrm-page-title {
+	text-align: center;
+}
+/* Full width fields */
+input.neon2Field,
+input.neoncrm-text-field,
+select.neoncrm-select {
+	width: 100%;
+	max-width: 100%;
+	padding: 3px;
+}
+/* Exceptions to full-width fields */
+#person\.dobMM,
+#person\.dobDD,
+#person\.dobYYYY,
+#address\.zip,
+#address\.zipSuffix,
+select[name="recurringDonation\.recurringInterval"].neoncrm-select,
+select#payment\.creditCard\.expirationMonth,
+select#payment\.creditCard\.expirationYear,
+input#payment\.creditCard\.address\.zip,
+input#payment\.creditCard\.address\.zipSuffix,
+input#payment\.creditCard\.cvvNumber {
+	width: inherit;
+	display: inline;
+}
+/* Spacing below buttons */
+.neoncrm-form-buttons {
+	margin-bottom: 40px;
+}
+
+/* Tables */
+.neoncrm-table {
+	border: solid 1px transparent;
+}
+.neoncrm-table thead {
+     border-bottom: 2px solid #222222;
+}
+.neoncrm-table td {
+     border: 1px solid #cccccc;
+     padding: 3px 8px;
+}
+
+/* Giftstore button sizing fixes */
+form[action="/np/publicaccess/orderUpdate.do"] .neoncrm-form-buttons {
+	text-align: center;
+}
+form[action="/np/publicaccess/orderUpdate.do"] .neoncrm-form-buttons input.neoncrm-button {
+	padding: 5px 10px;
+}
+
+/* Event List Page */
+.neoncrm-search-filters { border: solid 1px rgba(0,0,0,0.1); padding: 10px 20px; }
+.neoncrm-search-filters input#eventName { width: 100%; }
+.neoncrm-search-filters input[value=" Search "] { margin: 1em 0; }
+.neoncrm-event-list-page h2.neoncrm-event-name { margin-bottom: 0px; }
+.neoncrm-event-list-page .neoncrm-event-date { font-size: .8em; margin-bottom: 1em; }
+.neoncrm-eventList-tail { margin-top: 2em; }
+
+/* Event Registration */
+.neoncrm-eventReg-waiver { margin-bottom: 1em; }
+.neoncrm-event-registration-list-summary td { padding: 5px; }
+
+/* Store */
+.neoncrm-product-image-block { border: solid 1px rgba(0,0,0,0.1); }
+.neoncrm-product-detail-block .neoncrm-product-details .neon2Field { width: inherit; }
+.neoncrm-product-detail-block .neoncrm-product-details td { padding: 5px; }
+
+/* Login Page */
+#z2-login-wrapper #registration input[type="submit"] { width: 100%; margin-top: 1em; }
+#z2-login-wrapper #registration label[for="persistCookieChk"],
+#z2-login-wrapper #registration a[href="/np/clients/agloe/requestPassword.jsp"] { font-size: .7em; }
+#z2-login-wrapper #registration a[href="/np/clients/agloe/account.jsp"] { margin-top: 1em; display: block; text-align: center; }
+#z2-login-wrapper #registration hr { display: none; }
+#z2-secue { margin-top: 30px; }
+
+/* Membership Directory */
+.membershipDirectory table:first-child {
+	margin-bottom:6px;
+}
+.membershipDirectory table:first-child td input[type="text"] {
+	display: inline;
+	width: inherit;
+}
