@@ -186,3 +186,94 @@
 
 
             git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="fl-content-slider">
+    <div class="fl-content-slider-wrapper">
+        <!-- Slide 1 -->
+        <div class="fl-slide fl-slide-0 fl-slide-text-left">
+         
+            <div class="fl-slide-bg-photo">
+				<img class="slider-image" src="{% static 'assets/img/IMG-3.jpg' %}" alt="Slide 1">
+			</div>
+            <div class="fl-slide-foreground clearfix">
+                <div class="fl-slide-content-wrap">
+                    <div class="fl-slide-content">
+                        <h2 class="fl-slide-title">SERVE AS A TRUSTWORTHY PLATFORM FOR COLLECTING AND MANAGING ENDOWMENTS</h2>
+                        <div class="fl-slide-text">
+                            <p><span style="font-size: 24px;">Committed to ensuring the funds are effectively used</span></p>
+                        </div>
+                        <div class="fl-slide-cta-button">
+                            <a href="https://secure.islamicscholarshipfund.org/forms/22" target="_self" class="fl-button">
+                                <span class="fl-button-text">Donate Now </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="fl-slide fl-slide-1 fl-slide-text-left">
+            
+            <div class="fl-slide-bg-photo">
+				<img class="slider-image" src="{% static 'assets/img/IMG-2.jpg' %}" alt="Slide 2">
+			</div>
+            <div class="fl-slide-foreground clearfix">
+                <div class="fl-slide-content-wrap">
+                    <div class="fl-slide-content">
+                        <h2 class="fl-slide-title">EMPOWER STUDENTS TO PURSUE HIGHER EDUCATION</h2>
+                        <div class="fl-slide-text">
+                            <p><span style="font-size: 24px;">Investing in education to build a brighter future</span></p>
+                        </div>
+                        <div class="fl-slide-cta-button">
+                            <a href="" target="_self" class="fl-button">
+                                <span class="fl-button-text">Support Education </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="fl-slide fl-slide-2 fl-slide-text-left">
+            
+            <div class="fl-slide-bg-photo">
+				<img class="slider-image" src="{% static 'assets/img/IMG-4.jpg' %}" alt="Slide 3">
+			</div>
+            <div class="fl-slide-foreground clearfix">
+                <div class="fl-slide-content-wrap">
+                    <div class="fl-slide-content">
+                        <h2 class="fl-slide-title">ENRICHING COMMUNITIES THROUGH EDUCATION AND SERVICE</h2>
+                        <div class="fl-slide-text">
+                            <p><span style="font-size: 24px;">Promoting social responsibility and community development</span></p>
+                        </div>
+                        <div class="fl-slide-cta-button">
+                            <a href="https://secure.islamicscholarshipfund.org/forms/23" target="_self" class="fl-button">
+                                <span class="fl-button-text">Get Involved </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fl-content-slider-navigation" aria-label="content slider buttons">
+        <a class="slider-prev" href="#" aria-label="previous" role="button">&#10094;</a>
+        <a class="slider-next" href="#" aria-label="next" role="button">&#10095;</a>
+    </div>
+</div>
